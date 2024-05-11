@@ -1,10 +1,10 @@
 # Thesis project: Generative AI-Based Experiment Environment for Investigating Beliefs
 
-Unreal Engine project of experiment environment for Investigating Beliefs using GPT models for contradicting opinions. To use this environment you need [OpenAI API key](https://platform.openai.com/api-keys).
+Experiment environment for Investigating Beliefs using GPT models for contradicting opinions. To use this environment you need [OpenAI API key](https://platform.openai.com/api-keys).
 
 # Installation
 
-To use this Experiment Environment you have two options. To clone the project and run it inside the Unreal Engine or use the package file. 
+To use this Experiment Environment you have two options. To clone the project and run it inside the Unreal Engine or use the packaged file. 
 
 ### 1. Using the project inside the engine:
 
