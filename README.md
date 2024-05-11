@@ -10,7 +10,7 @@ To use this Experiment Environment you have two options. To clone the project an
 
 - Download: `git clone https://github.com/MarilinAhvenainen/Thesis.git`
 
-Requirements for running the project in Unreal Engine
+Requirements for running the project in Unreal Engine:
 - Unreal Engine 5.3
 - Visual Studio 2022
 - File Helper Blueprint Library
@@ -22,10 +22,10 @@ Requirements for running the project in Unreal Engine
 # Usage
 
 Shortcuts:
-F11 - exit fullscreen
-F2 - open settings in conversation view
-F7 - retry last message in conversation view
-Esc - back to main menu
+- F11 = exit fullscreen
+- F2 = open settings in conversation view
+- F7 = retry last message in conversation view
+- Esc = back to main menu
 
 Saved csv files:
 - Saved responses /Content/UserResponses/FormAnswers/
