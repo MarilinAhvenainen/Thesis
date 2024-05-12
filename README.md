@@ -1,10 +1,10 @@
-# Thesis project: Generative AI-Based Experiment Environment for Investigating Beliefs
+# Generative AI-Based Experiment Environment for Investigating Beliefs
 
-Experiment environment for Investigating Beliefs using GPT models for contradicting opinions. To use this environment you need [OpenAI API key](https://platform.openai.com/api-keys).
+Experiment environment for Investigating Beliefs using GPT models for contradicting opinions. To use this environment you need OpenAI account and [OpenAI API key](https://platform.openai.com/api-keys).
 
 # Installation
 
-To use this Experiment Environment you have two options. To clone the project and run it inside the Unreal Engine or use the packaged file. 
+To use this experiment environment you have two options. To clone the project and run it inside the Unreal Engine or use the packaged file. 
 
 ### 1. Using the project inside the engine:
 
@@ -20,6 +20,7 @@ Requirements for running the project in Unreal Engine:
 - Install: prereqs
 
 # Usage
+[Example settings (in EST)](https://docs.google.com/document/d/15e4ZpjMY6kZxR7Qw_7Dngbx0bdHKVa8ezwwCdPYiqaQ/edit?usp=sharing)
 
 Shortcuts:
 - F11 = exit fullscreen
@@ -31,7 +32,7 @@ Saved csv files:
 - Saved responses /Content/UserResponses/FormAnswers/
 - Saved conversations: /Content/UserResponses/Conversations/ 
 
-Please note that for security reasons API key will not be saved. Therefore any time the application or settings view is reopened the API key must be added in the settings. Rest of the settings will be saved.
+Please note that for security reasons API key will not be permanently saved. Therefore any time the application or settings view is reopened the API key must be added in the settings. Rest of the settings will be saved.
 
 # References
 - [Plugin for OpenAI API](https://github.com/KellanM/OpenAI-Api-Unreal)
