@@ -25,8 +25,8 @@ Select Yes to install.
 # Usage
 
 Before starting the experiment:
+- make sure you have OpenAI API key (that works with following endpoint: https://api.openai.com/v1/chat/completions). To generate API key, log into your [OpenAI account](https://platform.openai.com/) and then generate API key [here](https://platform.openai.com/api-keys). If you do not have one, but want to test it, then please contact the code owner.
 - configure settings: [Example settings (in EST)](https://docs.google.com/document/d/15e4ZpjMY6kZxR7Qw_7Dngbx0bdHKVa8ezwwCdPYiqaQ/edit?usp=sharing)
-- make sure you have OpenAI API key. If you do not have one, but want to test it, then please contact the code owner.
 - make sure you are connected to the internet
 
 Shortcuts:
