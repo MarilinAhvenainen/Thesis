@@ -26,6 +26,7 @@ Select Yes to install.
 
 Before starting the experiment:
 - configure settings: [Example settings (in EST)](https://docs.google.com/document/d/15e4ZpjMY6kZxR7Qw_7Dngbx0bdHKVa8ezwwCdPYiqaQ/edit?usp=sharing)
+- make sure you have OpenAI API key. If you do not have one, but want to test it, then please contact the code owner.
 - make sure you are connected to the internet
 
 Shortcuts:
